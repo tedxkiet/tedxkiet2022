@@ -9992,7 +9992,7 @@ main #section-contact-intro.seen .flex:nth-child(3) .middle-holder {
 /* BLOG - RACINE */
 /* Entete */
 #section-blog-head {
-    background-image: url('img/blog_head_bg.jpg');
+    background-image: url('../images/Background.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -10015,7 +10015,7 @@ main #section-contact-intro.seen .flex:nth-child(3) .middle-holder {
     display: inline-block;
     width: 28em;
     height: 28em;
-    background-image: url('img/blog_head_waves.jpg');
+    background-image: url('../images/RajeshKava1.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;

@@ -3018,7 +3018,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
     display: inline-block;
     width: 37em;
     height: 37em;
-    background-image: url('../pic1\ \(6\).jpg');
+    background-image: url('../images/RajeshKava1.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -3098,7 +3098,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 
 /* Savoir faire */
 #section-how .layer.back .half {
-    background-image: url('../pic1\ \(4\).jpg');
+    background-image: url('../images/Event2021.jpg');
     opacity: 0;
 }
 
@@ -3119,7 +3119,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 
 /* Sites de production */
 #section-sites .layer.back .half {
-    background-image: url('../Founders.jpg');
+    background-image: url('../images/Founders.jpg');
     opacity: 0;
 }
 

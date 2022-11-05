@@ -9991,35 +9991,6 @@ main #section-contact-intro.seen .flex:nth-child(3) .middle-holder {
 
 /* BLOG - RACINE */
 /* Entete */
-#section-blog-head {
-    background-image: url('../images/Background.png');
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 50em;
-    text-align: center;
-    z-index: 51;
-}
-
-#section-blog-head h2 {
-    opacity: 0;
-}
-
-#section-blog-head .circle {
-    opacity: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -14em;
-    margin-left: -14em;
-    display: inline-block;
-    width: 28em;
-    height: 28em;
-    background-image: url('../images/Circle\ Bg.png');
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-}
 
 #section-blog-head .wave.wave-actus-1 {
     height: 5.625em;

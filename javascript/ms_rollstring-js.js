@@ -1,27 +1,21 @@
-/**
- * Librairie ROLLSTRING
- * -------------------------
- * Matthieu SAUVET - msauvet.web@gmail.com
- * Last update: 12/2015
- * jQuery required
- */
 
- var MS_Rollstring = {
+
+var MS_Rollstring = {
 	anims: [],
-	
+
 	// DÃ©marre l'animation
 	roll: function (el, callback) {
 		var finalvalue,
 			speed,
 			time = 150;
-			
+
 		// Split de la chaine de caractÃ¨res
 		finalvalue = parseFloat(el.text());
 		// Vitesse d'incrÃ©mentation
 		speed = finalvalue / time;
-		
+
 		el.addClass('rolling');
-	
+
 		MS_Rollstring.anims.push({
 			el: el,
 			curvalue: 0,
@@ -31,16 +25,16 @@
 			callback: callback
 		});
 	},
-	
+
 	update: function () {
 		// Ajout ou pas de la class onscroll
-		for(i = 0; i < MS_Rollstring.anims.length; i += 1) {
-			if(MS_Rollstring.anims[i].state !== 'stop') {
-				if(parseFloat(MS_Rollstring.anims[i].curvalue) >= parseFloat(MS_Rollstring.anims[i].finalvalue)) {
+		for (i = 0; i < MS_Rollstring.anims.length; i += 1) {
+			if (MS_Rollstring.anims[i].state !== 'stop') {
+				if (parseFloat(MS_Rollstring.anims[i].curvalue) >= parseFloat(MS_Rollstring.anims[i].finalvalue)) {
 					MS_Rollstring.anims[i].curvalue = MS_Rollstring.anims[i].finalvalue;
 					MS_Rollstring.anims[i].state = 'stop';
 					MS_Rollstring.anims[i].el.addClass('rolled').removeClass('rolling');
-					if(MS_Rollstring.anims[i].callback) {
+					if (MS_Rollstring.anims[i].callback) {
 						MS_Rollstring.anims[i].callback(MS_Rollstring.anims[i].el);
 					};
 				} else {

@@ -2913,7 +2913,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 
 /* Intro (commune) */
 #section-intro {
-    background-image: url('../images/Background.png');
+    /* background-image: url('../images/Background.png'); */
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;

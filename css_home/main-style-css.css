@@ -932,11 +932,11 @@ h4 {
 }
 
 .t-pcolor-2 {
-    color: #e20953;
+    color: #e62b1e;
 }
 
 .b-pcolor-2 {
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 .t-pcolor-3 {
@@ -1022,7 +1022,7 @@ h4 {
 }
 
 .btn-outline.red {
-    border-color: #e20953;
+    border-color: #e62b1e;
 }
 
 .btn-outline:before {
@@ -1094,7 +1094,7 @@ h4 {
 }
 
 .btn-outline.red-back-hover:hover:before {
-    background-color: #E20953;
+    background-color: #e62b1e;
 }
 
 .btn-outline.white-hover:hover .in {
@@ -1157,7 +1157,7 @@ h4 {
 .wpcf7-form .line label {
     display: block;
     width: 100%;
-    border-bottom: 1px solid #e20953;
+    border-bottom: 1px solid #e62b1e;
 }
 
 .wpcf7-form .line label input,
@@ -1285,7 +1285,7 @@ h4 {
 .sib-form .line label {
     display: block;
     width: 100%;
-    border-bottom: 1px solid #e20953;
+    border-bottom: 1px solid #e62b1e;
 }
 
 .sib-form .line label input {
@@ -1665,7 +1665,7 @@ footer #footer-handler .arrow svg {
 }
 
 footer #footer-handler:hover .arrow svg path {
-    fill: #e20953;
+    fill: #e62b1e;
 }
 
 footer.folded #footer-handler:hover .arrow svg path {
@@ -1842,13 +1842,13 @@ nav .layer.fore .half .main-menu .menu-subitem.current-page .t-nav-sec:after {
     right: -0.1em;
     margin-top: 0.05em;
     height: 2.5px;
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 /* Interactions */
 nav .layer.fore .half .main-menu .menu-item:hover .t-nav-pri,
 nav .layer.fore .half .main-menu .menu-item:hover .menu-submenu .menu-subitem:hover .t-nav-sec {
-    color: #e20953;
+    color: #e62b1e;
 }
 
 nav .layer.fore .half .main-menu .menu-item.current-page .menu-submenu {
@@ -1873,7 +1873,7 @@ nav .circle {
     position: absolute;
     top: 50%;
     left: 50%;
-    border: 2.5px solid #e20953;
+    border: 2.5px solid #e62b1e;
     border-radius: 50%;
     pointer-events: none;
 }
@@ -1988,7 +1988,7 @@ nav .circle {
     }
 
     nav .layer.fore .half .main-menu .menu-item.opened .menu-head .btn-dropdown svg path {
-        fill: #e20953;
+        fill: #e62b1e;
     }
 
     nav .layer.fore .half .main-menu .menu-item:hover .t-nav-pri,
@@ -3291,7 +3291,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 }
 
 #section-news .tiles .tile .inner:hover .a-small {
-    color: #E20953;
+    color: #e62b1e;
 }
 
 #section-news .tiles .tile .inner:hover .back .img {
@@ -3344,7 +3344,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 }
 
 #section-news a.more:hover:before {
-    background-color: #E20953;
+    background-color: #e62b1e;
 }
 
 #section-news .wave.wave-home-5 {
@@ -3969,7 +3969,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 }
 
 #section-valeurs .slick-dots li.slick-active button:before {
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 #section-valeurs .tile .back .image {
@@ -4285,7 +4285,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 }
 
 #section-engagements .layer.fore .circle .items .item.active {
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 #section-engagements .layer.fore .circle .items .item:not(.active):hover {
@@ -4983,7 +4983,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 }
 
 #section-recherche .tiles-container .tiles .slick-dots li.slick-active button:before {
-    background-color: #E20953;
+    background-color: #e62b1e;
 }
 
 #section-recherche .tiles-container .tiles .slick-arrow {
@@ -5641,7 +5641,7 @@ section.certification .linked.produits .tiles-container .tiles .slick-dots li bu
 }
 
 section.certification .linked.produits .tiles-container .tiles .slick-dots li.slick-active button:before {
-    background-color: #E20953;
+    background-color: #e62b1e;
 }
 
 section.certification .linked .squared-container {
@@ -7883,7 +7883,7 @@ section.certification ul.t-regular li:before {
 }
 
 .dotmatrix .line .dot.filled.cta:after {
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 .dotmatrix .line .dot.filled.cta.active:after {
@@ -8025,7 +8025,7 @@ section.certification ul.t-regular li:before {
     width: 0.85em;
     height: 0.8em;
     border-radius: 50%;
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 #section-all-sites .layer.fore .discover .picto:after {
@@ -8587,7 +8587,7 @@ section.certification ul.t-regular li:before {
 }
 
 #section-gallery .tiles-container .tiles .slick-arrow:hover {
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 #section-gallery .tiles-container .tiles .slick-arrow:hover:after {
@@ -8878,11 +8878,11 @@ section.certification ul.t-regular li:before {
 }
 
 #section-site-produits .tiles .tile .inner .btn-outline {
-    border-color: #e20953;
+    border-color: #e62b1e;
 }
 
 #section-site-produits .tiles .tile .inner .btn-outline:hover:before {
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 #section-site-produits .tiles .tile .inner .btn-outline:hover .in {
@@ -8945,7 +8945,7 @@ section.certification ul.t-regular li:before {
 }
 
 #section-site-produits .ext-nav #ext-dots li.slick-active:after {
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 #section-site-produits .ext-nav #ext-arrows {
@@ -9353,7 +9353,7 @@ section.certification ul.t-regular li:before {
 #section-contact-intro #contact-phone {
     display: block;
     margin-top: 1.25em;
-    color: #e20953;
+    color: #e62b1e;
     text-decoration: underline;
 }
 
@@ -10092,7 +10092,7 @@ main #section-contact-intro.seen .flex:nth-child(3) .middle-holder {
 }
 
 #section-blog-content .tiles .tile .inner:hover .a-small {
-    color: #E20953;
+    color: #e62b1e;
 }
 
 #section-blog-content .tiles .tile .inner:hover .back .img {
@@ -10145,7 +10145,7 @@ main #section-contact-intro.seen .flex:nth-child(3) .middle-holder {
 }
 
 #section-blog-content a.more:hover:before {
-    background-color: #E20953;
+    background-color: #e62b1e;
 }
 
 /* MDPI */
@@ -11304,11 +11304,11 @@ main #section-contact-intro.seen .flex:nth-child(3) .middle-holder {
 }
 
 #section-histoire .slices .slice .next-screen:hover {
-    color: #e20953;
+    color: #e62b1e;
 }
 
 #section-histoire .slices .slice .next-screen:hover .arrow svg path {
-    fill: #e20953;
+    fill: #e62b1e;
 }
 
 #section-histoire .ariane {
@@ -11365,7 +11365,7 @@ main #section-contact-intro.seen .flex:nth-child(3) .middle-holder {
 
 #section-histoire .ariane .slice.current .dot:after {
     opacity: 1;
-    background-color: #e20953;
+    background-color: #e62b1e;
 }
 
 #section-histoire .ariane .slice .line {

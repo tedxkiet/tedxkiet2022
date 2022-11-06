@@ -889,7 +889,7 @@ h4 {
     font-size: 187.5%;
     font-family: 'Montserrat';
     font-weight: 600;
-    font-style: italic;
+    /* font-style: italic; */
     line-height: 1.24em;
     letter-spacing: 0.078em;
 }
@@ -898,7 +898,7 @@ h4 {
     font-size: 156.25%;
     font-family: 'Montserrat';
     font-weight: 500;
-    font-style: italic;
+    /* font-style: italic; */
     line-height: 1.8em;
     letter-spacing: 0.094em;
     color: white;

@@ -1853,7 +1853,6 @@ nav .layer.fore .half .main-menu .menu-item.current-page .menu-submenu {
     pointer-events: auto;
 }
 
-/* Sous menus masquÃ©s (sauf hover) au hover sur un des items de premier niveau */
 nav .layer.fore .half .main-menu .menu-item:hover .menu-submenu {
     opacity: 1;
     pointer-events: auto;
@@ -2004,8 +2003,6 @@ nav .circle {
     }
 }
 
-/* MENU OUVERT/APRES FERMETURE */
-/* Fond flouttÃ© */
 body.menu-already-seen header,
 body.menu-already-seen main,
 body.menu-already-seen footer,
@@ -2280,7 +2277,6 @@ body.opened-popup #popup-holder {
     vertical-align: middle;
 }
 
-/* MASTER TEMPLATE */
 main {
     position: relative;
     display: block;
@@ -2354,7 +2350,6 @@ main section .layer .contour svg {
 
 main section .layer .sketch {
     opacity: 0;
-    /* opacity:1 quand dashOffset rÃ©glÃ© par js */
 }
 
 main section .layer .half {
@@ -2439,7 +2434,6 @@ main section .stick-bottom {
     width: 100%;
 }
 
-/* Tuiles (3x1 / 1x1) */
 main section .tiles-container {
     position: relative;
 }
@@ -2606,7 +2600,6 @@ main section.dark .pagination .current {
     }
 }
 
-/* Vagues / Chevrons / Guillemets / Gouttes */
 .wave {
     position: absolute;
     opacity: 0;
@@ -2667,8 +2660,6 @@ main .handler-container .handler svg {
     height: 100%;
 }
 
-/* ANIMATIONS GENERALES */
-/* Fadeloading */
 main .layer.loading {
     background-color: white;
     opacity: 1;
@@ -2766,7 +2757,6 @@ main section.seen .btn-outline.btn-input.big.from-center button {
     -webkit-animation: 1s ease-in-out 3.5s fade-in both;
 }
 
-/* PAGE PAR DEFAUT */
 #section-page-content>.layer.fore {
     position: relative;
     top: auto;
@@ -2910,7 +2900,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 
 /* Intro (commune) */
 #section-intro {
-    /* background-image: url('../images/Background.png'); */
+    /* background-image: url('../images/bg4.jpg'); */
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;

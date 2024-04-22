@@ -3085,7 +3085,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 
 /* Savoir faire */
 #section-how .layer.back .half {
-    background-image: url('../images/Event2021.jpg');
+    background-image: url('../images/theme.png');
     opacity: 0;
 }
 
@@ -3106,7 +3106,7 @@ main section.seen .btn-outline.btn-input.big.from-center button {
 
 /* Sites de production */
 #section-sites .layer.back .half {
-    background-image: url('../images/Founders.jpg');
+    background-image: url('../images/Event2021.jpg');
     opacity: 0;
 }
 
